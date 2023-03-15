@@ -140,7 +140,9 @@ main {
    }
 
    .para-1 {
+      font-weight: 800;
       width: 30em;
+      line-height: 1.5em;
    }
 
    .button {
@@ -163,7 +165,7 @@ main {
    }
 
    .para-1 {
-      width: 33em;
+      width: 35em;
    }
 
    .card-2 {
